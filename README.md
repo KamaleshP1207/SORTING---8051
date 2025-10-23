@@ -118,12 +118,18 @@ END
 
 **Before execution:**
 D:0x40H:
+
+<img width="956" height="285" alt="Screenshot 2025-10-23 093807" src="https://github.com/user-attachments/assets/0e70a40c-7a92-4a28-9915-8029211a896e" />
+
 <BR>
 <BR>
 <BR>
 <BR>
 After execution:
 D:0x40H:
+
+<img width="957" height="277" alt="Screenshot 2025-10-23 093821" src="https://github.com/user-attachments/assets/9fec77e2-58fc-4309-9da3-473b0bf0138f" />
+
 <BR>
 <BR>
 <BR>
